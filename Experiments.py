@@ -34,3 +34,7 @@ for _, tyre_row in tyres.iterrows():
         
 results_df = pd.DataFrame(results)
 print(results_df)
+results_df.to_csv(
+    "experiment_monza_redbull_tyre_sensitivity.csv",
+    index=False
+)
