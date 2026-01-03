@@ -1,0 +1,20 @@
+TRACK,LAPS,LAP_LENGTH_KM,DEG_FACTOR,AVERAGE_SPEED_KMH,ALTITUTE_M, COUNTRY,left_corners,right_corners,
+Monza, 53, 5.793, 0.95, 263, 162, Italy, 8, 10
+Spa-Francorchamps, 44, 7.004, 1.1, 250, 300, Belgium, 9, 7
+Silverstone, 52, 5.891, 1.0, 240, 150, UK, 10, 8
+Suzuka, 53, 5.807, 1.05, 230, 50, Japan, 12, 10
+Zandvoort, 72, 4.259, 0.9, 220, 5, Netherlands, 14, 6
+Autodromo Hermanos Rodriguez, 71, 4.304, 1.2, 225, 2240, Mexico, 13, 7
+Baku City Circuit, 51, 6.003, 1.15, 210, 28, Azerbaijan, 5, 9
+Interlagos, 71, 4.309, 1.1, 215, 800, Brazil, 10, 10
+Circuit of the Americas, 56, 5.513, 1.05, 235, 220, USA, 11, 9
+Yas Marina Circuit, 55, 5.554, 0.95, 240, 7, UAE, 8, 12
+Imola, 63, 4.909, 1.0, 225, 150, Italy, 10, 8
+Red Bull Ring, 71, 4.318, 1.1, 240, 600, Austria, 9, 7
+Bahrain International Circuit, 57, 5.412, 0.9, 230, 15, Bahrain, 6, 10
+Hungaroring, 70, 4.381, 1.0, 210, 200, Hungary, 14, 6
+Marina Bay Street Circuit, 61, 5.063, 0.85, 200, 5, Singapore, 9, 12
+Portimão, 66, 4.653, 1.0, 220, 300, Portugal, 10, 10
+                    
+
+

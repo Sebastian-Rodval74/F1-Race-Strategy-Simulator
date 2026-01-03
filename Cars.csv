@@ -1,0 +1,11 @@
+team,base_aero,high_df_eff,low_df_eff,drag_coeff,
+RedBull,1.15,1.08,0.95,0.96
+Ferrari,1.10,1.05,0.97,1.00
+Mercedes,1.08,1.03,0.98,1.02
+McLaren,1.12,1.06,0.96,0.98
+Alpine,1.09,1.04,0.97,1.01
+AstonMartin,1.11,1.07,0.95,0.99
+Williams,1.14,1.09,0.94,0.97
+AlfaRomeo,1.10,1.05,0.96,1.00
+Haas,1.13,1.08,0.95,0.98
+AlphaTauri,1.12,1.06,0.96,0.99
