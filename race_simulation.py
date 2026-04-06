@@ -24,11 +24,6 @@ def simulate_stint(track, car, setup, tyre, stint_length, lap_time_func):
 def simulate_strategy(track, car, setup, strategy, lap_time_func):
     """
     Simulates a full race strategy composed of multiple stints.
-    Strategy format:
-    [
-        {"tyre": tyre_dict, "laps": int},
-        ...
-    ]
     """
     total_time = 0.0
 
@@ -42,7 +37,7 @@ def simulate_strategy(track, car, setup, strategy, lap_time_func):
             lap_time_func=lap_time_func
         )
 
-        # Add pit stop time after every stint except the last
+        # Add pit stop time (except last stint)
         if i < len(strategy) - 1:
             total_time += PIT_TIME_BASE
 

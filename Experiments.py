@@ -6,7 +6,7 @@ cars = pd.read_csv("cars.csv")
 tyres = pd.read_csv("tyres.csv")
 
 # Select tracks for comparison (ensure these exist in tracks.csv)
-track_names = ["Monza", "Interlagos"]
+track_names = ["Red Bull Ring", "Interlagos"]
 selected_tracks = tracks[tracks["TRACK"].isin(track_names)]
 
 car = cars[cars["team"] == "RedBull"].iloc[0].to_dict()
