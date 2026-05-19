@@ -1,4 +1,4 @@
-from Factor_calculators import calculate_aero_load, speed_factor, corner_factor, setup_factor
+from models.aero_model import calculate_aero_load, speed_factor, corner_factor, setup_factor
 def calculate_lap_time(track, car, setup, tyre, lap_in_stint):
 
     # --- Baseline lap time from track geometry and historical average speed ---

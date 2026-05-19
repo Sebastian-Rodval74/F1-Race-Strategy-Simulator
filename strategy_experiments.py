@@ -1,5 +1,5 @@
 import pandas as pd
-from Lap_time_model import calculate_lap_time
+from models.Lap_time_model import calculate_lap_time
 from race_simulation import simulate_strategy
 import matplotlib.pyplot as plt
 

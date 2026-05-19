@@ -1,5 +1,5 @@
 import pandas as pd
-from Lap_time_model import calculate_lap_time
+from models.Lap_time_model import calculate_lap_time
 
 tracks = pd.read_csv("tracks.csv")
 cars = pd.read_csv("cars.csv")
